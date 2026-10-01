@@ -1,4 +1,4 @@
-# ELEVE — BIGGEST FITNESS REVOLUTION
+ # ELEVE — BIGGEST FITNESS REVOLUTION
 > **Philosophy:** TRAIN. FUEL. RECOVER. EVOLVE.  
 > **Type:** High-Performance Athletic Operating System & Full-Stack Platform
 
